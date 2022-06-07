@@ -22,3 +22,4 @@ data2 = {
  4: [1]
 }
 my_code(data1, 1)
+my_code(data2, 1)
