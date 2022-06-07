@@ -9,3 +9,4 @@ lib1 = {'first': 'first_value', 'second': 'second_value'}
 lib2= { '1': { 'child': '1/child/value' }, '2': '2/value'}
 
 my_code(lib1)
+my_code(lib2)
